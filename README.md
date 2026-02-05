@@ -8,3 +8,5 @@ Son tres procesos
 3. git push     -> Para ya subir todo a github
 
 ## Cambio de  7:30 -> simulando si un compañero hizo un cambio
+
+Camio pruba de erreor
