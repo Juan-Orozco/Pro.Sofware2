@@ -11,3 +11,6 @@ Son tres procesos
 
 
 #Cabio de la 7:44
+## Cambio de  7:30 -> simulando si un compañero hizo un cambio
+
+Camio pruba de erreor
